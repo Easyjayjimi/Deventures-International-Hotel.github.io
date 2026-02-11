@@ -1,0 +1,65 @@
+body {
+    background-image: url(./pngtree-bedroom-guest-room-five-star-hotel-image_990205.jpg);
+    text-align: center;
+    background-size: cover;
+    background-attachment: fixed;
+    color: aliceblue;
+}
+
+form {
+    background-color: rgba(0, 0, 0, 0.62);
+    width: 400px;
+    margin: auto;
+    padding: 20px;
+    border-radius: 10px;
+    margin-top: 120px;
+}
+
+.form_details {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+input {
+    border: none;
+    border-bottom: 1px solid antiquewhite;
+    background: transparent;
+    font-size: 15px;
+    text-align: center;
+}
+
+#country_code {
+    width: 60px;
+    max-width: 100%;
+}
+
+.login_in_signup {
+    text-align: right;
+    color: rgb(14, 172, 151);
+}
+
+.signup {
+    color: rgb(14, 172, 151);
+}
+
+/* input{
+	text-align: center;
+	border: none;
+	border-bottom: 1px solid whitesmoke;
+	width: 300px;
+	background: transparent;
+	font-size: 18px;
+	font-style: Times New Roman;
+	font-style: oblique;
+	transition: border 0.5s;
+	outline: none;
+}
+input{
+    border: none;
+    outline: none;
+    border-bottom: 3px solid whitesmoke;
+    background: transparent;
+    color: pink;
+    text-align: center;
+
+} */
